@@ -1,0 +1,14 @@
+version: "python:3.9"
+
+services:
+  streamlit-app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8501:8501"
+    volumes:
+      - ./app_data:/app_data
+    environment:
+      - TZ=UTC
+    command: ["streamlit", "run", "app.py"]
