@@ -42,7 +42,7 @@ This is a Streamlit application for machine learning models that will estimate t
 
     Open a web browser and go to [http://localhost:8501](http://localhost:8501) to access the Streamlit app.
 
-![Streamlit App](./streamlit.mp4)
+![Streamlit App](./streamlit.gif)
 
 ## Usage
 
