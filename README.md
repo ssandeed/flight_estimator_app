@@ -19,11 +19,11 @@ This is a Streamlit application for machine learning models that will estimate t
 1. **Clone the Repository**
 
     ```shell
-    git clone https://github.com/ssandeed/flight_prediction_app.git
+    git clone https://github.com/ssandeed/flight_estimator_app.git
     ```
 
     ```shell
-    cd flight_prediction_app
+    cd flight_estimator_app
     ```
 
 2. **Build the Docker Image**
@@ -54,7 +54,7 @@ All the required Python packages are listed in `requirements.txt`. They will be 
 
 ## Support and Issues
 
-If you encounter any issues or have questions, please open an issue on the [GitHub repository](https://github.com/ssandeed/flight_prediction_app/issues).
+If you encounter any issues or have questions, please open an issue on the [GitHub repository](https://github.com/ssandeed/flight_estimator_app/issues).
 
 Enjoy using the Streamlit app!
 
