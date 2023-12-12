@@ -42,7 +42,7 @@ This is a Streamlit application for machine learning models that will estimate t
 
     Open a web browser and go to [http://localhost:8501](http://localhost:8501) to access the Streamlit app.
 
-[![Streamlit App](<img width="693" alt="Screenshot 2023-12-12 at 4 26 46 pm" src="https://github.com/ssandeed/flight_estimator_app/assets/46265728/cd242b53-d22e-4eff-8430-7a4ed4d046b8">)](https://youtu.be/hOZyOBfdUfI)
+[![Streamlit App](https://drive.google.com/drive/u/0/folders/15ccznnb0n4XRNYmqTp5Zvmptoy7DfZ-j)](https://youtu.be/hOZyOBfdUfI)
 
 ## Usage
 
