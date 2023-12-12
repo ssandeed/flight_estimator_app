@@ -42,7 +42,7 @@ This is a Streamlit application for machine learning models that will estimate t
 
     Open a web browser and go to [http://localhost:8501](http://localhost:8501) to access the Streamlit app.
 
-[![Streamlit App](file:///Users/sareem/Library/CloudStorage/GoogleDrive-sareemsandeed@gmail.com/My%20Drive/github_images/flight_estimator.png)](https://youtu.be/hOZyOBfdUfI)
+[![Streamlit App](streamlit.png)](https://youtu.be/hOZyOBfdUfI)
 
 ## Usage
 
