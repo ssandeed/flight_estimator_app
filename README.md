@@ -44,6 +44,10 @@ This is a Streamlit application for machine learning models that will estimate t
 
 ![Streamlit App](./streamlit.gif)
 
+
+
+[![Now in Android](https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg)](https://youtu.be/hOZyOBfdUfI)
+
 ## Usage
 
 - Upon opening the Streamlit app, you can interact with the machine-learning application and see the fare estimation.
