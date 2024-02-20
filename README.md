@@ -2,6 +2,8 @@
 
 This is a Streamlit application for machine learning models that will estimate the flight fares between two US cities. It allows you to interact with pre-trained models and see their results. The web application must be containerised with Docker and run using Python 3.9.13.
 
+**App Link:** https://usa-flight-estimator.streamlit.app/
+
 ## File Structure
 
 - `models/`: This directory contains pre-trained machine learning models.
